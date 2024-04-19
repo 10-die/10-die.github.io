@@ -1,9 +1,14 @@
 function getRepository()
 {
-    alert("under development");
+    alert("underDevelopment");
 }
 
 function getLinkedIn()
 {
-    alert("under development");
+    alert("underDevelopment");
+}
+
+function getHackathon()
+{
+    alert("underDevelopment");
 }
