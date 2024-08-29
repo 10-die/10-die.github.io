@@ -54,7 +54,7 @@ export default function Home()
     }
   }, [])
 
-  // this causes the site to stutter as it assesses the state of the loading construct, removing it makes the site run much smoother
+  // 10-die/10-die.github.io this causes the site to stutter as it assesses the state of the loading construct, removing it makes the site run much smoother
   if (loading) 
   {
     return <Loading/>;
@@ -169,7 +169,6 @@ export default function Home()
         </div>
 
         <div className={styles.midContainerFour}>
-          <h1>Academics</h1>
         </div>
         
 
